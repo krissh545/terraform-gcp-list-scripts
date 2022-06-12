@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "balatraining",
+  "private_key_id": "f733068185fe0b2ceb756f9362cf7e8d82155c4c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC8dkWkm5OFMHcP\nzJoZkol8ysD22rUgD4wcbm5vf+fbu7Pws0q/YJySQ0dFvnXJvhl2Nvg3XWwbCdM7\nPgaWhWiafZa4/6k/t5mhUV10nQkSnxAXf3opDlqZC1qQuV7R8C6ljnxvx4d4p7nF\n/DzqOu+cl+C6xX6dANsKb9GXSRVdF5iHbY/3XIghCGaJjyAancOK9SHCrrk9QQbd\nCABaaZnxKBFTTP2uFQQ6kUezluaQyNp+S7jMNm36B8pbfHeHW/FfE7iCLkj5avdv\nzyuKESDOu5cABf1l4i6p6xLZX8r3A0BhZC/E38yvqPOFwADNhaVSSJ3Jov9kurRO\nanFH4nc3AgMBAAECggEADWQ2u6UbEjuTjOmuyNgQRpqeTowo6E/NLBdZZ+PbT6ei\nose4An70xocwUSTg+Bu2xx8jJm/60WBdLu2lMzHkm8GxIZEib3bLhwUh57o23ai0\nJdn242RJN2xxRteyhKa/8cn8+UZgz8fUnAcPNFz0D25SrNgsEITx4OfO0/oAoh4p\nB5VUJ7wrKpHL1ttBbo1xIHGmvJjlCukG6xAadJWkm/X2bAJ3PSkNYsRLPzJQEOz3\nCdl9xjqKuXLKJsOeqzqbMJVPE4yCFjXsV30RbyEAtZMJn/9iZQzzEKWfzVioKKTV\n2DKqSPT0Z3A7LKDJ3Nii9Wco1nKzbbHByGSZwJ42wQKBgQD/x2fjIHNZ1dX2rBfO\nhUHV1P2CRRcr63ZjaW4f8etpMrI9PM31M0MJNd1dEscHP9lihi80qKTKYGff5dLp\nhKPIuQltAoPRAcXMJcKvgUla28GJyVZ5RL9q8g6ou+GvFN0PIhJjmtZUayb7LAVM\ngYeYxx+yV/fyhY5kMOJNfpa5wQKBgQC8n/i3RY29HA9Lwf4iG0MLHlPNgfSDR4H9\n8PmVYyCuDJdb+TOpIaD/QIfv+GF0LdVeGv13y2lYsNc/9T1cyA6ncUjYa6teQ77d\nt9Naf8XZUqcfgi5rAqcWWLE+xUgUUTaX4Uv/sdWlp1d4RW2Ri+hdHQ036ihb2vnN\nnp1g/Ji+9wKBgQDdQy2OYEMJAp9uHN8XS1VxWifXKldqKe2m/8xBHDCuNynTKadt\nJuQlspAE9Lpxff1aaoOphP3RB+az3AdA9PoOKGuL/nHzOxpViJDK7Ad97r6UqDQD\nAcKpDC48LxODNoQolCveOFKSgoMdIq6OyTp4okC8MbcO+BP+ff82VHykwQKBgBJh\n+MhLtAORH4B/mHfUdlU4EGy/1IeSyX1pJbnEXmP4ACxLfhhmmZ0mudjOORkselXg\nhYFORqcJHQEzslY/fQYeiT3mSF44dfp/ts5kE3EZmAX/Fu0A5i3MWQHIEj1AqPRm\nVZTGzQ6G34RuJ75+hxfEBAzF+kbxcVTzt1zDYVODAoGAJqCHgOTeHevL8eVMxlxZ\nG5HDgCx8zuHB4TOxqdwteRdivQPAKzintlZXSkXNhCov19umYTYziZ9UyujjuWdt\nq94UcTnYOov7Rw3NjlCxIqbXupvQXNtMFNgNywX86ZPaXrwzxr/ic3hiLcUlfhl9\n5A6YKHt9rxCKACDr6/8PCFE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "tfsa-66@balatraining.iam.gserviceaccount.com",
+  "client_id": "115067799952247575401",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tfsa-66%40balatraining.iam.gserviceaccount.com"
+}
